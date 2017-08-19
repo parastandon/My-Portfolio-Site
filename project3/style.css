@@ -1,0 +1,42 @@
+body{
+	font-family: 'Lato', sans-serif;
+	
+	font-weight:300;
+	margin-left:auto;
+	margin-right:auto;
+}
+.text-muted{
+	
+	color:grey;
+}
+.text-thin{
+font-weight:100;
+margin-top:80px;
+}
+.title-super{
+	
+	font-size:60px;
+	
+}
+.title-logo{
+	margin-top:30px;
+	
+}
+.text-center{
+   text-align:center;
+}
+hr{
+	background-color:grey;
+	height:3px;
+}
+	
+	
+
+
+
+	
+	
+	
+	
+	
+	
